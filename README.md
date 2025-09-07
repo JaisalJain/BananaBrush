@@ -38,4 +38,7 @@ I would like to thank **Kaggle**, **Gemini**, **11Labs** and all the contributor
 
 ---
 
-## **Submisssion for "https://www.kaggle.com/competitions/banana"**
+### Kaggle Writeup: "https://www.kaggle.com/competitions/banana/writeups/banana-brush"
+
+
+### **Submisssion for "https://www.kaggle.com/competitions/banana"**
