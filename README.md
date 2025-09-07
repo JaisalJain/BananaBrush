@@ -40,7 +40,7 @@ I would like to thank **Kaggle**, **Gemini**, **11Labs** and all the contributor
 ---
 
 
-### Project: "banana-brush.vercel.app" 
+### Project: "https://banana-brush.vercel.app/" 
 
 
 ### Kaggle Writeup: "https://www.kaggle.com/competitions/banana/writeups/banana-brush"
