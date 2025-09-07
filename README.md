@@ -22,7 +22,8 @@ These Gemini powered tools are the essence of **Banana Brush**, transforming com
 
 ##  Acknowledgements
 I would like to thank **Kaggle**, **Gemini**, **11Labs** and all the contributors whose technology made this project possible.
-
+---
+### Made with Google AI Studio
 ---
 
 ## Run Locally
