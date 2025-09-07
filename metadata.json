@@ -1,0 +1,5 @@
+{
+  "name": "Banana Brush",
+  "description": "An AI-powered creative studio that allows users to generate images from text, or upload their own to edit, expand, and transform with AI.",
+  "requestFramePermissions": []
+}
